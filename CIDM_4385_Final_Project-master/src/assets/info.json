@@ -1,0 +1,141 @@
+{
+  "name":"EDSIGCON | CONISAR 2019",
+  "location": {
+    "city":"Cleveland, OH",
+    "address": "24 Public Square, Cleveland, OH 44113",
+    "latitude": 41.498583,
+    "longitude": -81.694644
+  },
+  "banner": "https://cdn-images-1.medium.com/max/2560/1*i4JSARqDcVOH5tlQByxVEw.png",
+  "date": "Nov. 6 - 9, 2019",
+  "description": "EDSIGCON | CONISAR is a conference devoted to Information Systems & Computing Education. CONISAR is dedicated to research in the areas of data analytics, Information Systems managment, cybersecurity, data privacy, big data managment, cloud and virtualization, and ethical issues.",
+  "speakers": [
+    {
+      "name": "Alex Roder",
+      "bio": "A CIS Student at WT",
+      "github": "mistertempleton",
+      "subtitle": "hire me plz.",
+      "avatar": "https://i.imgur.com/GLebA0X.jpg"
+    },
+    {
+      "name": "Trevor Vieth",
+      "bio": "A CIS at WT",
+      "github": "tdvieth1",
+      "subtitle": "likes shack-building.",
+      "avatar": "https://i.imgur.com/WV0Ey5B.jpg"
+    },
+    {
+      "name": "Jon Snow",
+      "bio": "The King in the North",
+      "github": "iknownothingaboutdev",
+      "subtitle": "a real know-nothing.",
+      "avatar": "https://cdn.vox-cdn.com/thumbor/psDK42BpCunN475f88ms0_5YY_8=/71x0:570x374/920x613/filters:focal(71x0:570x374):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/49958765/kit-harington-sad-jon-snow-game-of-thrones.0.0.jpg"
+    },
+    {
+      "name": "Jeffry Babb",
+      "bio": "Associate ­Professor & Gensler Professor of Computer Information Systems at West Texas A&M University",
+      "github": "ahuimanu",
+      "subtitle": "thinks cats are cool",
+      "avatar": "http://edsigcon.org/assets/img/team/babb.png"
+    },
+    {
+      "name": "Mark Zuckerberg",
+      "bio": "CEO at Facebook. Chief privacy-invader.",
+      "github": "plsdontmabellus",
+      "subtitle": "is really a lizard in a skin suit.",
+      "avatar": "https://media.npr.org/assets/img/2018/11/21/gettyimages-962142720-3f4af695a639cbc14deb90e88287cd3c19b676f4-s1100-c15.jpg"
+    },
+    {
+      "name": "Bill Gates",
+      "bio": "Ex-CEO at Microsoft. Was Kinda mean back then, but now has literal 'save the world' kinda money, so it balances out, right?",
+      "github": "microsoft",
+      "subtitle": "aka 'anti-malaria man'",
+      "avatar": "https://specials-images.forbesimg.com/imageserve/5c76b4b84bbe6f24ad99c370/416x416.jpg?background=000000&cropX1=0&cropX2=4000&cropY1=0&cropY2=4000"
+    },
+    {
+      "name": "Jeff Bezos",
+      "bio": "CEO at Amazon",
+      "github": "awsr0cks",
+      "subtitle": "giant human thumb",
+      "avatar": "https://specials-images.forbesimg.com/imageserve/5bb22ae84bbe6f67d2e82e05/416x416.jpg?background=000000&cropX1=904&cropX2=1403&cropY1=262&cropY2=761"
+    }
+  ],
+  "events": [
+    {
+      "title": "Wednesday, November 6th",
+      "data": [
+        { "name" : "Light Reception", "time": "6:00 pm", "place": "Conference Room # 295", "color":"#33E4F0",
+        "description" : "Vanquish that jet lag with some delicious refreshments."},
+        { "name" : "Registration", "time": "6:00 pm", "place": "Conference Room # 295", "color":"#33E4F0",
+        "description": "Hurry and get registered before the fun kicks off in earnest tomorrow!"}
+      ]
+    },
+    {
+      "title": "Thursday, November 7th",
+      "data": [
+        { "name" : "Registration", "time": "7:00 am - 4:30 pm", "place": "Room # 326", "color":"#3392F0", 
+          "description": "Did you wait too long to register? Have no fear! You can still join in on the fun."},
+        { "name" : "Breakfast", "time": "7:30 am", "place": "Main Lobby", "color":"#3392F0",
+          "description": "Chow down and fuel up before the day gets off to a great start"},
+        { "name" : "Sessions & Workshops Begin", "time": "12 pm", "place": "Conference Room A", "color":"#F05233", 
+          "speaker":"Jeff Bezos",
+          "description": "And we're off to the races!"},
+          {"name": "Industry Keynote Lunch", "time": "12:00 pm", "place" : "Restaurant to be determined", "color": "#36BBE4"},
+          {"name": "Sessions", "time": "2 pm - 4:30 pm", "place": "Conference rooms A, B, and C", "color":"#DEC311"}
+      ]
+    },
+    {
+      "title": "Special Event",
+      "data": [
+        { "name" : "Thursday Dinner & Fun Night", "time": "7 pm", "place": "Downtown Cleveland location to be determined", "color":"#C12071",
+          "description": "Join us for a fun dinner full of camaraderie, and all the delicious food one could want!"},
+        { "name" : "EDSIG Fellow Induction", "time": "8 pm", "place": "At Restaurant", "color":"#30C120", 
+          "speaker":"Dr. Jeffry Babb",
+          "description": "Please join us in welcoming the newest EDSIG fellow inductees over dinner."}
+      ]
+    },
+    {
+      "title": "Friday, November 8th",
+      "data": [
+        { "name" : "Breakfast", "time": "7:30 am", "place": "Main Lobby", "color":"#C12071", 
+          "description": "Waffles are a good way to start the day."},
+        { "name" : "Sessions", "time": "8:30 - 12 pm", "place": "Conference Rooms A, B, and C", "color":"#808080", 
+          "speaker":"Assorted",
+          "description": "Isn't learning new things so much fun?"},
+        {
+          "name" : "Distinguished Educator Keynote Lunch", "time" : "12 pm", "place" : "Main Conference Room", "color":"#36BBE4",
+          "description" : "Join us for lunch and keynote from a distinuished educator from within the field of information systems"},
+        { "name" : "EDSIG Members Meeting", "time": "5 pm", "place": "A secret location, revealed only to those in the know", "color":"#DEC311", 
+          "speaker":"Dr. Jeffry Babb, President -- EDSIG",
+          "description": "Who's keeping the minutes?"},
+        {
+          "name" : "Reception", "time" : "6:30 pm", "place" : "Conference Room B", "color":"#DEC311",
+          "description" : "Join us for a reception to end the day. Don't worry, we won't keep you too long, and then it's off to dinner!"
+        },
+        {
+          "name" : "Dinner" , "time" : "7:30 pm" , "place" : "Location of your choosing", "color" :"#F05233",
+          "description" : "Go out with friends and colleagues, and enjoy the best Cleveland has to offer."
+        }
+      ]
+    },
+    {
+      "title": "Saturday, November 9th",
+      "data": [
+        { "name" : "Breakfast", "time": "7:30 am", "place": "Main Lobby", "color":"#3392F0", 
+          "description": "Where are the cinnamon rolls at?"
+        },
+        { "name" : "Sessions", "time": "8:30 am - 12:00 pm", "place": "Conference Rooms A, B, and C", "color":"#3392F0", 
+          "speaker":"Assorted",
+          "description": "Join in on the last round of sessions. Learn you somethin'!"
+        },
+        { "name" : "Awards Lunch", "time": "12 pm", "place": "Location to be determined", "color":"#F05233", 
+          "description": "Join us to bid adieu to EDSIGCON | CONISAR 2019. See you next year!"
+        },
+        { "name" : "Awards Lunch", "time": "12 pm", "place": "Location to be determined", "color":"#F05233", 
+          "description": "Join us to bid adieu to EDSIGCON | CONISAR 2019. See you next year!"
+        }
+
+      ]
+    }
+  ]
+}
